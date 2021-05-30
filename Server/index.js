@@ -15,5 +15,5 @@ io.on('connection', (socket) => {
     });
 });
 http.listen(3000, () => {
-    console.log('Connected at 3000');
+    console.log('Server running at 3000');
 });

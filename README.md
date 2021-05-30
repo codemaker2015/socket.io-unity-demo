@@ -32,6 +32,8 @@ Socket.IO Client Library for Unity
 * Unity Version: 2019.4.17f1 LTS
 
 
+## Example Code
+
 ```cs
 // unity c# code
 using System.Collections;
@@ -104,3 +106,6 @@ This library supports all of the features the JS client does, including events, 
     - Unity Editor restart
 
 
+## Screenshots
+
+![Screenshot](https://github.com/codemaker2015/socket.io-unity-demo/blob/master/Screenshots/Screenshot.png)
